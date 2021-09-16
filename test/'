@@ -1,0 +1,2 @@
+json:json.cpp
+	g++ json.cpp -o json -std=c++11 -ljsoncpp 
